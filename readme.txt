@@ -11,7 +11,7 @@ Credits :
 Important Note:
 ---------------
 To remove backlink from the template, you need to donate to remove the backlink from the template.
-Any question contact us: webthemez@gmail.com
+Any question contact us: mazenelfar20@gmail.com
 
 
 License :
@@ -26,6 +26,6 @@ License :
 
 - If you wish to remove backlink from the template, you need to donate min USD $10 to remove backlink (credits) form the template
 
-- If you have any question,feel free to contact us at webthemez@gmail.com
+- If you have any question,feel free to contact us at mazenelfar20@gmail.com
 
 - All images user here is for demo purpose only, we are not responsible for any copyrights.
